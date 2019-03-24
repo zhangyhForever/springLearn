@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springLearn">
+    <output-path>$PROJECT_DIR$/out/artifacts/springLearn</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="springLearn/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springLearn" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
