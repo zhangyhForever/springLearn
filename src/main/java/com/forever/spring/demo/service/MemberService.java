@@ -1,4 +1,4 @@
-package com.forever.spring.service;
+package com.forever.spring.demo.service;
 
 public interface MemberService {
 

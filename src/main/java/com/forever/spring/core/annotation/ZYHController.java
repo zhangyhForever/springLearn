@@ -1,4 +1,4 @@
-package com.forever.spring.annotation;
+package com.forever.spring.core.annotation;
 
 
 import java.lang.annotation.*;
